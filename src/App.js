@@ -22,7 +22,7 @@ function App() {
   return (
     <div>
       <div>
-        <h1 className="main">REFRESH TO GET NEW QUOTE . . .</h1>
+        <h1 className="main">REFRESH TO GET NEW QUOTE . . . .</h1>
       </div>
       <div className="new">
         <h3 className="sub-main">{quote}</h3>
